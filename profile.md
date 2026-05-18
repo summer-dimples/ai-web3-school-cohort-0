@@ -9,8 +9,8 @@
 
 ## Goals
 
-- Direction: 待确认（开发 / 产品研究 / Hackathon 项目）
-- Daily time commitment: 待确认
+- Direction: 产品研究 / Hackathon 项目
+- Daily time commitment: 1-2小时/天
 - Output language: Chinese
 - GitHub: summer-dimples
 
