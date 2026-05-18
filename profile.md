@@ -2,15 +2,17 @@
 
 ## Background
 
-- AI Basics: (to be confirmed)
-- Web3 Basics: (to be confirmed)
-- Programming: (to be confirmed)
+- AI Basics: 有基础
+- Web3 Basics: 新手
+- Programming: 会基础脚本
+- Environment: Termux on Android
 
 ## Goals
 
-- Direction: (to be confirmed)
-- Daily time commitment: (to be confirmed)
+- Direction: 待确认（开发 / 产品研究 / Hackathon 项目）
+- Daily time commitment: 待确认
 - Output language: Chinese
+- GitHub: summer-dimples
 
 ## Learning Path
 
