@@ -1,6 +1,25 @@
 # Personal Learning Plan
 
-> Generated on 2026-05-18
+> Generated on 2026-05-18 | Updated on 2026-05-19
+
+## Week 1 任务（2026-05-19 起）
+
+**背景评估：** AI 有基础，Web3 新手 → 优先补 Web3 短板，同步推进 AI 实践
+
+### 模块 A｜AI 基础任务 → `tasks/week1-module-a.md`
+- [ ] 搭建 learning agent（Claude Code 已配置）并跑通一次学习任务
+- [ ] 个人 GitHub repo 初始化完成
+- [ ] 用 agent 生成一个可交互学习产物
+
+### 模块 B｜Web3 基础任务 → `tasks/week1-module-b.md`
+- [ ] 创建测试钱包，理解地址 / 助记词 / 私钥
+- [ ] Sepolia 测试网：领取测试币 + 发送测试交易 + 区块浏览器验证
+- [ ] Remix 部署 SimpleStorage 合约，完成读 + 写
+
+### 模块 C｜最小交叉实验 → `tasks/week1-module-c.md`
+- [ ] 选定路线：AI 生成 → 人工复核 → 钱包确认 → 链上执行 → 浏览器验证
+- [ ] 画出完整流程图（标出人工确认节点）
+- [ ] 整理概念说明：7 个概念放到同一任务链里解释
 
 ## Phase 1: Foundation (Week 1-2)
 
